@@ -1,8 +1,9 @@
 # 💳 Card Trend Analytics — Indian Credit Card Spending Analysis
 
 
----
+
 📌 Overview
+
 A deep-dive SQL analysis of **25,000+ credit card transactions** across India, uncovering regional spending patterns, high-growth opportunities, and risk indicators to support smarter financial decision-making.
 
 ---
@@ -14,15 +15,21 @@ A deep-dive SQL analysis of **25,000+ credit card transactions** across India, u
 ---
 
 🛠️ Tools & Technologies
+
 | MySQL | Data extraction, cleaning, analysis |
+
 | Excel | Data validation and cross-checking | 
 
 ---
 
 📊 Key Findings
+
 🔍 Identified **3+ high-impact growth opportunities** across transaction segments
+
 📍 Uncovered distinct regional spending patterns across **10+ Indian states**
+
 ⚠️ Flagged potential risk indicators through anomaly detection in transaction data
+
 📈 Quantified behavioral trends enabling targeted business improvements
 
 ---
@@ -34,7 +41,3 @@ A deep-dive SQL analysis of **25,000+ credit card transactions** across India, u
 
 ---
 
-## 💡 Business Recommendations
-- Focus marketing spend on top 3 high-transaction regions
-- Flag accounts with anomalous spending patterns for risk review
-- Allocate resources toward highest growth transaction categories
